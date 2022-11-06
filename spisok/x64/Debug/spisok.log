@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Марк\source\repos\spisok\Source.cpp(176,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Марк\source\repos\spisok\Source.cpp(108): warning C4715: list::operator[]: значение возвращается не при всех путях выполнения
+  spisok.vcxproj -> C:\Users\Марк\source\repos\spisok\x64\Debug\spisok.exe
